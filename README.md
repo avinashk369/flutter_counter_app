@@ -1,6 +1,6 @@
 # counterApp
 
-A new Flutter project.
+Flutter basic counter app using Bloc pattern
 
 ## Getting Started
 
