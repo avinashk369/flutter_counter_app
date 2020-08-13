@@ -1,3 +1,4 @@
+import 'package:counterApp/sample/ui/onboard_screens.dart';
 import 'package:flutter/material.dart';
 
 import 'HomePage.dart';
@@ -13,6 +14,7 @@ class MyApp extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: MyHomePage(title: 'Flutter Demo Home Page'),
+      //home: OnboardScreen(),
       debugShowCheckedModeBanner: false,
     );
   }
